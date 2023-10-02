@@ -1,0 +1,1 @@
+// write a program to calculate the sum of the first 10 natural numbers
